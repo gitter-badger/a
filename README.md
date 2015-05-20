@@ -1,5 +1,7 @@
 # a
 
+[![Join the chat at https://gitter.im/angular/a](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular/a?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Annotator for ES5. Lets you write ES5 with TypeScript-like annotations.
 
 ## Disclaimer
